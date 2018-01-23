@@ -47,6 +47,6 @@ if __name__ == '__main__':
     ax = fig.add_subplot(111)
 
     drawcanvas(ax)
-    addtext(ax)
+#    addtext(ax)
     turnoffaxis(ax, False)
     savecanvas()
